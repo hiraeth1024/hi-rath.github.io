@@ -11,4 +11,4 @@
     * [cpp](backend/cpp/)
 
 * 实用技术
-    * [docsify-搭建笔记博客](fronted/docsify/)
+    * [docsify-搭建笔记博客](frontend/docsify/)
