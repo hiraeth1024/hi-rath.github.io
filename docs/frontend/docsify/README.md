@@ -14,7 +14,7 @@
 
 搜索进入官网，点击下载，选择windows install (.msi) 64-bit
 
-![](D:\图片\截图\Snipaste_2023-02-02_14-11-50.png)
+![img](img/Snipaste_2023-02-02_14-11-50.png)
 
 
 

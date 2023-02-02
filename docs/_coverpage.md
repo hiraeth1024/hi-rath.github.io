@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](photo1.jpg)
+![logo](img/photo1.jpg)
 
 # Hiraeth <small>3.5</small>
 
