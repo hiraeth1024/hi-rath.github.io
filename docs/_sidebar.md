@@ -3,8 +3,12 @@
 * [首页](README)
 * [操作指南](guide.md)
 
-* 前端
+* 前端技术
     * [html+css](frontend/html+css/)
+    * [javascript](#)
 
-* 后端
+* C++
     * [cpp](backend/cpp/)
+
+* 实用技术
+    * [docsify-搭建笔记博客](fronted/docsify/)
