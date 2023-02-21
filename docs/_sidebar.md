@@ -7,8 +7,14 @@
     * [html+css](frontend/html+css/)
     * [javascript](#)
 
+* 数据库
+    * [mysql](#)
+
 * C++
-    * [cpp](backend/cpp/)
+    * [cpp](cpp/)
+
+* 计算机系统
+    * [ch01](#)
 
 * 实用技术
     * [docsify-搭建笔记博客](frontend/docsify/)
