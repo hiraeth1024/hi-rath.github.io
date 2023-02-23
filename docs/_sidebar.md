@@ -13,6 +13,7 @@
 * C++
     * [ch02](cpp/ch02.md)
     * [ch03](cpp/ch03.md)
+    * [ch03](cpp/ch03.md)
 
 * 计算机系统
     * [ch01](#)
