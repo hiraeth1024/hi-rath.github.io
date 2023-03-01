@@ -1,7 +1,7 @@
 
 
 * [首页](README)
-* [操作指南](guide.md)
+
 
 * C++
     * [ch02](cpp/ch02.md)

@@ -10,7 +10,7 @@
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/hi-rath)
 [Get Started](README)
 
 <!-- [Get Started](#Headline) -->
