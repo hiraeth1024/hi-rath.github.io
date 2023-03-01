@@ -2,7 +2,7 @@
 
 ![logo](img/photo1.jpg)
 
-# Hiraeth <small>3.5</small>
+# Hiraeth
 
 > A magical documentation site generator.
 

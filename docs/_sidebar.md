@@ -4,9 +4,7 @@
 
 
 * C++
-    * [ch02](cpp/ch02.md)
-    * [ch03](cpp/ch03.md)
-    * [ch04](cpp/ch04.md)
+    * [基础知识](cpp/基础/ch02.md)
 
 * 前端技术
     * [html+css](frontend/html+css/)
