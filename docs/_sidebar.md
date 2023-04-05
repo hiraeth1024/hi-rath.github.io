@@ -23,4 +23,4 @@
     * [ch01](#)
 
 * 实用技术
-    * [docsify-搭建笔记博客](frontend/docsify/)
+    * [docsify-搭建笔记博客](frontend/docsify/README.md)
