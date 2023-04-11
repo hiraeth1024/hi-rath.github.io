@@ -7,3 +7,4 @@
 * [ch05](cpp/基础/ch05.md)
 * [ch06](cpp/基础/ch06.md)
 * [ch07](cpp/基础/ch07.md)
+* [ch08](cpp/基础/ch08.md)
